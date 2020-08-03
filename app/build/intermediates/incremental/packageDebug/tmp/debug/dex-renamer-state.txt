@@ -1,0 +1,4 @@
+#Mon Aug 03 20:51:23 SGT 2020
+base.0=D\:\\DIB2 S1\\Mobile Application Development\\Practical_week8\\android-fundamentals-apps-v2-master\\Scorekeeper\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
